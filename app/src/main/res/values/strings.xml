@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">FAST FOOD</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="sobre_nosotros">SOBRE NOSOTROS</string>
+    <string name="Detalles">Detalle</string>
+    <string name="logo">Logo</string>
+
+    <!--  Chacarero  -->
+    <string name="Nombre_Chacarero">Chacarero</string>
+    <string name="Descripcion_Chacarero">Ingredientes: Pan de Sandwich, Marraqueta o Pan pita calientes,
+                                         3 Churrascos delgados, 1 palta grande, 3 Rodajas de Tomate
+                                         y 1 cucharada de mayonesa casera.</string>
+    <string name="Precio_Chacarero">Precio: $3500</string>
+
+    <!--  Churrasco Italiano  -->
+    <string name="Nombre_Churrasco_Italiano">Churrasco Italiano</string>
+    <string name="Descripcion_Churrasco_Italiano">Ingredientes: Pan de Sandwich, Marraqueta o
+                                                  Pan pita calientes, 3 Churrascos delgados,
+                                                  1 palta grande, 3 Rodajas de Tomate y
+                                                  1 cucharada de mayonesa casera.</string>
+    <string name="Precio_Churrasco_Italiano">Precio: $3500</string>
+
+    <!--  Chemilico  -->
+    <string name="Nombre_Chemilico">Chemilico</string>
+    <string name="Descripcion_Chemilico">Ingredientes: Pan de Sandwich o Marraqueta caliente,
+                                         con un bistec de 200 g, media Cebolla frita en corte pluma,
+                                         un huevo frito perfecto.</string>
+    <string name="Precio_Chemilico">Precio: $3200</string>
+
+    <!--  Lomito Clásico.  -->
+    <string name="Nombre_Lomito_Clásico">Lomito Clásico</string>
+    <string name="Descripcion_Lomito_Clásico">Ingredientes: Pan de Sandwich o Marraqueta,
+                                              2 tiernas lonjas de lomo de Cerdo fileteadas,
+                                              Chucrut fresco y 2 rodajas de Tomate y una cucharada
+                                              de Mayonesa casera.</string>
+    <string name="Precio_Lomito_Clásico">Precio: $3800</string>
+
+    <!--  Vegetariano  -->
+    <string name="Nombre_Vegetariano">Vegetariano</string>
+    <string name="Descripcion_Vegetariano">Ingredientes: Pan de Sandwich integral o Pita calentito,
+                                           Seitán, Carne de soja o Tofu salteada, Queso chacra en
+                                           abundancia, 3 Tomates frescos, palta y una cucharada de
+                                           salsa de espinaca casera.</string>
+    <string name="Precio_Vegetariano">Precio: $4000</string>
+
+    <!--  Sobre Nosotros  -->
+    <string name="Descripcion_Sobre_Nosotros">Somos una empresa de la región con más de 10 años de
+                                              experiencia realizando sandwiches! los mejores de la
+                                              zona, si no chorrea no es FAST FOOD!! </string>
+
+
+</resources>
